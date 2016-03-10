@@ -1,0 +1,39 @@
+[{
+  "repositories": [
+    "LearnersGuild/learning-os-software",
+    "LearnersGuild/idm",
+    "LearnersGuild/fsa"
+  ],
+  "milestones": [{
+    "title": "SSO, sign-up, and auth (v0)",
+    "state": "open",
+    "due_on": "2016-03-18T23:59:59Z"
+  }, {
+    "title": "Rocket.Chat customizations (v0)",
+    "state": "open",
+    "due_on": "2016-04-01T23:59:59Z"
+  }, {
+    "title": "player state and schedules (v0)",
+    "state": "open",
+    "due_on": "2016-04-15T23:59:59Z"
+  }, {
+    "title": "player stats (v0)",
+    "state": "open",
+    "due_on": "2016-04-29T23:59:59Z"
+  }, {
+    "title": "team assignment (v0)",
+    "state": "open",
+    "due_on": "2016-05-13T23:59:59Z"
+  }, {
+    "title": "retrospective / reflection (v0)",
+    "state": "open",
+    "due_on": "2016-05-27T23:59:59Z"
+  }],
+  "labels": [{
+    "name": "epic",
+    "color": "fbca04"
+  }, {
+    "name": "blocked",
+    "color": "eb6420"
+  }]
+}]
