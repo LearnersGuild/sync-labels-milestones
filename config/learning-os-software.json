@@ -2,7 +2,9 @@
   "repositories": [
     "LearnersGuild/learning-os-software",
     "LearnersGuild/idm",
-    "LearnersGuild/fsa"
+    "LearnersGuild/fsa",
+    "LearnersGuild/rocketchat-lg-sso",
+    "LearnersGuild/rocketchat-lg-slash-commands"
   ],
   "milestones": [{
     "title": "SSO, sign-up, and auth (v0)",
