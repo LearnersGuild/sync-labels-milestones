@@ -3,6 +3,7 @@
     "LearnersGuild/learning-os-software",
     "LearnersGuild/idm",
     "LearnersGuild/game",
+    "LearnersGuild/graphiql",
     "LearnersGuild/rocketchat-lg-sso",
     "LearnersGuild/rocketchat-lg-slash-commands"
   ],
@@ -24,9 +25,6 @@
     "due_on": "2016-06-30T23:59:59Z"
   }],
   "labels": [{
-    "name": "epic",
-    "color": "fbca04"
-  }, {
     "name": "blocked",
     "color": "eb6420"
   }]
