@@ -27,5 +27,8 @@
   "labels": [{
     "name": "blocked",
     "color": "eb6420"
+  }, {
+    "name": "ux",
+    "color": "008080"
   }]
 }]
