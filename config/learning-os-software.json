@@ -30,5 +30,8 @@
   }, {
     "name": "ux",
     "color": "008080"
+  }, {
+    "name": "chore",
+    "color": "0000ff"
   }]
 }]
