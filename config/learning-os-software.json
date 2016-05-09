@@ -4,6 +4,7 @@
     "LearnersGuild/idm",
     "LearnersGuild/game",
     "LearnersGuild/graphiql",
+    "LearnersGuild/Rocket.Chat",
     "LearnersGuild/rocketchat-lg-sso",
     "LearnersGuild/rocketchat-lg-slash-commands"
   ],
@@ -33,5 +34,8 @@
   }, {
     "name": "chore",
     "color": "0000ff"
+  }, {
+    "name": "game-design",
+    "color": "e6e6fa"
   }]
 }]
