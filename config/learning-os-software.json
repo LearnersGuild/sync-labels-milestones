@@ -1,5 +1,6 @@
 [{
   "repositories": [
+    "LearnersGuild/alfred-bot",
     "LearnersGuild/learning-os-software",
     "LearnersGuild/idm",
     "LearnersGuild/game",
