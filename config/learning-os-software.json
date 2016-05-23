@@ -6,6 +6,7 @@
     "LearnersGuild/game",
     "LearnersGuild/graphiql",
     "LearnersGuild/Rocket.Chat",
+    "LearnersGuild/rocketchat-lg-api-extensions",
     "LearnersGuild/rocketchat-lg-sso",
     "LearnersGuild/rocketchat-lg-slash-commands"
   ],
