@@ -1,10 +1,11 @@
 [{
   "repositories": [
     "LearnersGuild/alfred-bot",
-    "LearnersGuild/learning-os-software",
-    "LearnersGuild/idm",
+    "LearnersGuild/command-parser",
     "LearnersGuild/game",
     "LearnersGuild/graphiql",
+    "LearnersGuild/idm",
+    "LearnersGuild/learning-os-software",
     "LearnersGuild/Rocket.Chat",
     "LearnersGuild/rocketchat-lg-api-extensions",
     "LearnersGuild/rocketchat-lg-sso",
@@ -19,9 +20,13 @@
     "state": "open",
     "due_on": "2016-04-30T23:59:59Z"
   }, {
-    "title": "beta",
+    "title": "alpha3",
     "state": "open",
     "due_on": "2016-05-31T23:59:59Z"
+  }, {
+    "title": "beta",
+    "state": "open",
+    "due_on": "2016-06-15T23:59:59Z"
   }, {
     "title": "v0",
     "state": "open",
