@@ -9,15 +9,16 @@
     "LearnersGuild/Rocket.Chat",
     "LearnersGuild/rocketchat-lg-api-extensions",
     "LearnersGuild/rocketchat-lg-sso",
-    "LearnersGuild/rocketchat-lg-slash-commands"
+    "LearnersGuild/rocketchat-lg-slash-commands",
+    "LearnersGuild/subcli"
   ],
   "milestones": [{
     "title": "alpha1",
-    "state": "open",
+    "state": "closed",
     "due_on": "2016-03-31T23:59:59Z"
   }, {
     "title": "alpha2",
-    "state": "open",
+    "state": "closed",
     "due_on": "2016-04-30T23:59:59Z"
   }, {
     "title": "alpha3",
