@@ -1,8 +1,8 @@
 [{
   "repositories": [
     "LearnersGuild/alfred-bot",
-    "LearnersGuild/command-parser",
     "LearnersGuild/game",
+    "LearnersGuild/game-cli",
     "LearnersGuild/graphiql",
     "LearnersGuild/idm",
     "LearnersGuild/learning-os-software",
