@@ -22,16 +22,20 @@
     "due_on": "2016-04-30T23:59:59Z"
   }, {
     "title": "alpha3",
-    "state": "open",
+    "state": "closed",
     "due_on": "2016-05-31T23:59:59Z"
   }, {
     "title": "beta",
     "state": "open",
-    "due_on": "2016-06-15T23:59:59Z"
+    "due_on": "2016-06-17T23:59:59Z"
   }, {
     "title": "v0",
     "state": "open",
-    "due_on": "2016-06-30T23:59:59Z"
+    "due_on": "2016-07-01T23:59:59Z"
+  }, {
+    "title": "v1",
+    "state": "open",
+    "due_on": "2016-08-19T23:59:59Z"
   }],
   "labels": [{
     "name": "blocked",
