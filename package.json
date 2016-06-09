@@ -5,7 +5,8 @@
   "main": "node_modules/.bin/github-sync-labels-milestones",
   "scripts": {
     "test": "echo \"NO TESTS!\"",
-    "sync:software": "node_modules/.bin/github-sync-labels-milestones -c config/learning-os-software.json -t `cat .ghtoken`"
+    "sync:software": "node_modules/.bin/github-sync-labels-milestones -c config/learning-os-software.json -t `cat .ghtoken`",
+    "sync:guildcrafts": "node_modules/.bin/github-sync-labels-milestones -c config/guild-crafts.json -t `cat .ghtoken`"
   },
   "author": "Jeffrey Wescott <jeffrey@learnersguild.org>",
   "license": "UNLICENSED",

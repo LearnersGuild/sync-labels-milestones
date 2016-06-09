@@ -1,0 +1,41 @@
+[{
+  "repositories": [
+    "GuildCrafts/web-development-js",
+    "GuildCraftsTesting/web-development-js-testing"
+  ],
+  "milestones": [],
+  "labels": [{
+    "name": "approved",
+    "color": "0e8a16"
+  }, {
+    "name": "duplicate",
+    "color": "cccccc"
+  }, {
+    "name": "goal",
+    "color": "1d76db"
+  }, {
+    "name": "proposed",
+    "color": "fbca04"
+  }, {
+    "name": "question",
+    "color": "d4c5f9"
+  }, {
+    "name": "rejected",
+    "color": "b60205"
+  }, {
+    "name": "team-size-2",
+    "color": "0052cc"
+  }, {
+    "name": "team-size-2",
+    "color": "0052cc"
+  }, {
+    "name": "team-size-3",
+    "color": "0052cc"
+  }, {
+    "name": "team-size-4",
+    "color": "0052cc"
+  }, {
+    "name": "team-size-5",
+    "color": "0052cc"
+  }]
+}]
