@@ -3,7 +3,31 @@
     "GuildCrafts/web-development-js",
     "GuildCraftsTesting/web-development-js-testing"
   ],
-  "milestones": [],
+  "milestones": [{
+    "title": "Level 0",
+    "state": "open",
+    "description": "Novice Apprentice"
+  } , {
+    "title": "Level 1",
+    "state": "open",
+    "description": "Intermediate Apprentice"
+  } , {
+    "title": "Level 2",
+    "state": "open",
+    "description": "Advanced Apprentice"
+  } , {
+    "title": "Level 3",
+    "state": "open",
+    "description": "Novice Junior Developer"
+  } , {
+    "title": "Level 4",
+    "state": "open",
+    "description": "Intermediate Junior Developer"
+  } , {
+    "title": "Level 5",
+    "state": "open",
+    "description": "Advanced Junior Developer"
+  }],
   "labels": [{
     "name": "duplicate",
     "color": "cecece"
