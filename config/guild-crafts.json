@@ -3,39 +3,51 @@
     "GuildCrafts/web-development-js",
     "GuildCraftsTesting/web-development-js-testing"
   ],
-  "milestones": [],
+  "milestones": [{
+    "title": "Level 0",
+    "state": "open",
+    "description": "Novice Apprentice"
+  } , {
+    "title": "Level 1",
+    "state": "open",
+    "description": "Intermediate Apprentice"
+  } , {
+    "title": "Level 2",
+    "state": "open",
+    "description": "Advanced Apprentice"
+  } , {
+    "title": "Level 3",
+    "state": "open",
+    "description": "Novice Junior Developer"
+  } , {
+    "title": "Level 4",
+    "state": "open",
+    "description": "Intermediate Junior Developer"
+  } , {
+    "title": "Level 5",
+    "state": "open",
+    "description": "Advanced Junior Developer"
+  }],
   "labels": [{
-    "name": "approved",
-    "color": "0e8a16"
-  }, {
     "name": "duplicate",
-    "color": "cccccc"
+    "color": "cecece"
   }, {
-    "name": "goal",
-    "color": "1d76db"
-  }, {
-    "name": "proposed",
+    "name": "draft",
     "color": "fbca04"
   }, {
     "name": "question",
     "color": "d4c5f9"
   }, {
-    "name": "rejected",
-    "color": "b60205"
-  }, {
-    "name": "team-size-2",
-    "color": "0052cc"
-  }, {
-    "name": "team-size-2",
-    "color": "0052cc"
-  }, {
     "name": "team-size-3",
-    "color": "0052cc"
+    "color": "3a8ada"
   }, {
     "name": "team-size-4",
-    "color": "0052cc"
+    "color": "446bff"
   }, {
     "name": "team-size-5",
-    "color": "0052cc"
+    "color": "3a3dda"
+  }, {
+    "name": "team-size-6",
+    "color": "342280"
   }]
 }]
