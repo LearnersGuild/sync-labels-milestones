@@ -5,6 +5,7 @@
     "LearnersGuild/game-cli",
     "LearnersGuild/graphiql",
     "LearnersGuild/idm",
+    "LearnersGuild/idm-jwt-auth",
     "LearnersGuild/learning-os-software",
     "LearnersGuild/Rocket.Chat",
     "LearnersGuild/rocketchat-lg-api-extensions",
