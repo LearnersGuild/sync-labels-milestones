@@ -14,29 +14,33 @@
     "LearnersGuild/subcli"
   ],
   "milestones": [{
-    "title": "alpha1",
+    "title": "v0 (alpha1)",
     "state": "closed",
     "due_on": "2016-03-31T23:59:59Z"
   }, {
-    "title": "alpha2",
+    "title": "v0 (alpha2)",
     "state": "closed",
     "due_on": "2016-04-30T23:59:59Z"
   }, {
-    "title": "alpha3",
+    "title": "v0 (alpha3)",
     "state": "closed",
     "due_on": "2016-05-31T23:59:59Z"
   }, {
-    "title": "beta",
-    "state": "open",
+    "title": "v0 (beta)",
+    "state": "closed",
     "due_on": "2016-06-17T23:59:59Z"
   }, {
     "title": "v0",
-    "state": "open",
+    "state": "closed",
     "due_on": "2016-07-01T23:59:59Z"
+  }, {
+    "title": "v1 (beta)",
+    "state": "open",
+    "due_on": "2016-08-12T23:59:59Z"
   }, {
     "title": "v1",
     "state": "open",
-    "due_on": "2016-08-19T23:59:59Z"
+    "due_on": "2016-09-12T23:59:59Z"
   }],
   "labels": [{
     "name": "blocked",
