@@ -1,13 +1,12 @@
 [{
   "repositories": [
-    "LearnersGuild/alfred-bot",
+    "LearnersGuild/echo-chat",
     "LearnersGuild/game",
     "LearnersGuild/game-cli",
     "LearnersGuild/graphiql",
     "LearnersGuild/idm",
     "LearnersGuild/idm-jwt-auth",
     "LearnersGuild/learning-os-software",
-    "LearnersGuild/Rocket.Chat",
     "LearnersGuild/rocketchat-lg-api-extensions",
     "LearnersGuild/rocketchat-lg-sso",
     "LearnersGuild/rocketchat-lg-slash-commands",
