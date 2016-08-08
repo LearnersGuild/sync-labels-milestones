@@ -7,9 +7,6 @@
     "LearnersGuild/idm",
     "LearnersGuild/idm-jwt-auth",
     "LearnersGuild/learning-os-software",
-    "LearnersGuild/rocketchat-lg-api-extensions",
-    "LearnersGuild/rocketchat-lg-sso",
-    "LearnersGuild/rocketchat-lg-slash-commands",
     "LearnersGuild/subcli"
   ],
   "milestones": [{
@@ -40,6 +37,14 @@
     "title": "v1",
     "state": "open",
     "due_on": "2016-09-12T23:59:59Z"
+  }, {
+    "title": "v2 (beta)",
+    "state": "open",
+    "due_on": "2016-10-17T23:59:59Z"
+  }, {
+    "title": "v2",
+    "state": "open",
+    "due_on": "2016-11-14T23:59:59Z"
   }],
   "labels": [{
     "name": "blocked",
