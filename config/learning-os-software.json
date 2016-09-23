@@ -3,10 +3,12 @@
     "LearnersGuild/echo-chat",
     "LearnersGuild/game",
     "LearnersGuild/game-cli",
+    "LearnersGuild/game-prototype",
     "LearnersGuild/graphiql",
     "LearnersGuild/idm",
     "LearnersGuild/idm-jwt-auth",
     "LearnersGuild/learning-os-software",
+    "LearnersGuild/playbook",
     "LearnersGuild/subcli"
   ],
   "milestones": [{
