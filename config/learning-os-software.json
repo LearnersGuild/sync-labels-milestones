@@ -24,39 +24,64 @@
   }, {
     "title": "v0 (beta)",
     "state": "closed",
-    "due_on": "2016-06-17T23:59:59Z"
+    "due_on": "2016-06-10T23:59:59Z"
   }, {
     "title": "v0",
     "state": "closed",
-    "due_on": "2016-07-01T23:59:59Z"
+    "due_on": "2016-07-08T23:59:59Z"
   }, {
     "title": "v1 (beta)",
-    "state": "open",
-    "due_on": "2016-08-12T23:59:59Z"
+    "state": "closed",
+    "due_on": "2016-08-19T23:59:59Z"
   }, {
     "title": "v1",
-    "state": "open",
-    "due_on": "2016-09-12T23:59:59Z"
+    "state": "closed",
+    "due_on": "2016-09-16T23:59:59Z"
   }, {
     "title": "v2 (beta)",
     "state": "open",
-    "due_on": "2016-10-17T23:59:59Z"
+    "due_on": "2016-10-28T23:59:59Z"
   }, {
     "title": "v2",
     "state": "open",
-    "due_on": "2016-11-14T23:59:59Z"
+    "due_on": "2016-11-25T23:59:59Z"
+  }, {
+    "title": "v3 (beta)",
+    "state": "open",
+    "due_on": "2017-01-06T23:59:59Z"
+  }, {
+    "title": "v3",
+    "state": "open",
+    "due_on": "2017-02-03T23:59:59Z"
+  }, {
+    "title": "v4 (beta)",
+    "state": "open",
+    "due_on": "2017-03-17T23:59:59Z"
+  }, {
+    "title": "v4",
+    "state": "open",
+    "due_on": "2017-04-14T23:59:59Z"
   }],
   "labels": [{
+    "name": "architecture",
+    "color": "fbca04"
+  }, {
+    "name": "bug",
+    "color": "ff0000"
+  }, {
     "name": "blocked",
     "color": "eb6420"
-  }, {
-    "name": "ux",
-    "color": "008080"
   }, {
     "name": "chore",
     "color": "0000ff"
   }, {
-    "name": "game-design",
-    "color": "e6e6fa"
+    "name": "duplicate",
+    "color": "cccccc"
+  }, {
+    "name": "sanity",
+    "color": "f9d0c4"
+  }, {
+    "name": "ui",
+    "color": "008080"
   }]
 }]
