@@ -9,6 +9,7 @@
     "LearnersGuild/idm-jwt-auth",
     "LearnersGuild/learning-os-software",
     "LearnersGuild/playbook",
+    "LearnersGuild/rethinkdb-changefeed-reconnect",
     "LearnersGuild/subcli"
   ],
   "milestones": [{
