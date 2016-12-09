@@ -8,6 +8,7 @@
     "LearnersGuild/idm",
     "LearnersGuild/idm-jwt-auth",
     "LearnersGuild/learning-os-software",
+    "LearnersGuild/los-metrics",
     "LearnersGuild/playbook",
     "LearnersGuild/rethinkdb-changefeed-reconnect",
     "LearnersGuild/subcli"
