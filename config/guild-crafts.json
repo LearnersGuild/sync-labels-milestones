@@ -29,6 +29,21 @@
     "description": "Advanced Junior Developer"
   }],
   "labels": [{
+    "name": "apprentice",
+    "color": "b118a8"
+  }, {
+    "name": "foundational",
+    "color": "ff236e"
+  }, {
+    "name": "practice",
+    "color": "ff23b0"
+  }, {
+    "name": "production",
+    "color": "9e37ff"
+  }, {
+    "name": "prototype",
+    "color": "d235ff"
+  }, {
     "name": "duplicate",
     "color": "cecece"
   }, {
@@ -37,6 +52,9 @@
   }, {
     "name": "question",
     "color": "d4c5f9"
+  }, {
+    "name": "team-size-2",
+    "color": "c5def5"
   }, {
     "name": "team-size-3",
     "color": "3a8ada"
