@@ -4,31 +4,46 @@
     "GuildCraftsTesting/web-development-js-testing"
   ],
   "milestones": [{
-    "title": "Level 0",
+    "title": "Level 1.1",
+    "state": "open"
+  }, {
+    "title": "Level 1.2",
+    "state": "open"
+  }, {
+    "title": "Level 1.3",
+    "state": "open"
+  }, {
+    "title": "Level 1.4",
+    "state": "open"
+  }, {
+    "title": "Level 2.1",
     "state": "open",
-    "description": "Novice Apprentice"
-  } , {
-    "title": "Level 1",
+    "description": "Maintained, ongoing projects."
+  }, {
+    "title": "Level 2.2",
     "state": "open",
-    "description": "Intermediate Apprentice"
-  } , {
-    "title": "Level 2",
+    "description": "Advanced practice and foundations that _improve your web dev skills_ and increase your capacity to contribute to maintained projects."
+  }, {
+    "title": "Level 3.1",
     "state": "open",
-    "description": "Advanced Apprentice"
-  } , {
-    "title": "Level 3",
-    "state": "open",
-    "description": "Novice Junior Developer"
-  } , {
-    "title": "Level 4",
-    "state": "open",
-    "description": "Intermediate Junior Developer"
-  } , {
-    "title": "Level 5",
-    "state": "open",
-    "description": "Advanced Junior Developer"
+    "description": "Prototype projects with a live, deployed app and real users."
   }],
   "labels": [{
+    "name": "apprentice",
+    "color": "b118a8"
+  }, {
+    "name": "foundational",
+    "color": "ff236e"
+  }, {
+    "name": "practice",
+    "color": "ff23b0"
+  }, {
+    "name": "production",
+    "color": "9e37ff"
+  }, {
+    "name": "prototype",
+    "color": "d235ff"
+  }, {
     "name": "duplicate",
     "color": "cecece"
   }, {
@@ -37,6 +52,9 @@
   }, {
     "name": "question",
     "color": "d4c5f9"
+  }, {
+    "name": "team-size-2",
+    "color": "c5def5"
   }, {
     "name": "team-size-3",
     "color": "3a8ada"
